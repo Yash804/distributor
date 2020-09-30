@@ -21,7 +21,7 @@ _Note:_ The latest stable version of the plugin is the _stable_ branch. [Downloa
 * [Developers](#developers)
   * [Running Locally](#running-locally)
   * [Testing](#testing)
-  * [Debugging](#debugging)
+  * [error correction](#error correction)
 * [Changelog](#changelog)
 * [Contributing](#contributing)
 
